@@ -1,0 +1,22 @@
+{
+  "name": "pictokit",
+  "version": "0.1.0",
+  "description": "Simple image processing CLI using UnJS tools",
+  "type": "module",
+  "scripts": {
+    "build": "unbuild",
+    "start": "jiti ./src/index.ts",
+    "dev": "jiti ./src/index.ts --dev"
+  },
+  "dependencies": {
+    "citty": "^0.1.1",
+    "image-meta": "^0.2.0",
+    "jimp-compact": "^0.3.0"
+  },
+  "devDependencies": {
+    "jiti": "^1.20.0",
+    "typescript": "^5.0.0",
+    "unbuild": "^1.0.0"
+  },
+  "packageManager": "yarn@4.6.0"
+}
