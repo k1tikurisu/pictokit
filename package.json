@@ -1,19 +1,29 @@
 {
-  "name": "pictokit",
-  "version": "0.1.0",
+  "name": "hello-unjs",
+  "version": "0.0.0",
   "description": "Simple image processing CLI using UnJS tools",
   "type": "module",
+  "main": "./dist/index.cjs",
+  "types": "./dist/index.d.ts",
+  "bin": "./bin/hello-unjs",
   "scripts": {
     "build": "unbuild",
+    "release": "changelogen",
     "start": "jiti ./src/index.ts",
-    "dev": "jiti ./src/index.ts --dev"
+    "dev": "jiti ./src/index.ts --dev",
+    "automd": "automd"
   },
   "dependencies": {
+    "c12": "2.0.1",
     "citty": "^0.1.1",
-    "image-meta": "^0.2.0",
-    "jimp-compact": "^0.3.0"
+    "consola": "3.3.3",
+    "image-meta": "0.2.1",
+    "jimp-compact": "0.16.1-2"
   },
   "devDependencies": {
+    "@types/node": "22.10.5",
+    "automd": "0.3.12",
+    "changelogen": "0.5.7",
     "jiti": "^1.20.0",
     "typescript": "^5.0.0",
     "unbuild": "^1.0.0"
