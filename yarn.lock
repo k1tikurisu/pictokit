@@ -2120,7 +2120,7 @@ __metadata:
     typescript: "npm:^5.0.0"
     unbuild: "npm:^1.0.0"
   bin:
-    hello-unjs: ./bin/hello-unjs
+    hello-unjs: ./dist/index.mjs
   languageName: unknown
   linkType: soft
 

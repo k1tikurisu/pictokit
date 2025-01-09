@@ -26,12 +26,20 @@ greet("UnJS"); // Hello, UnJS!
 
 <!-- /automd -->
 
-<!-- automd:contributors github -->
+<!-- automd:contributors github="k1tikurisu/unjs-cli-tool" -->
 
-Made by [community](https://github.com/true/graphs/contributors) 💛
+Made by [community](https://github.com/k1tikurisu/unjs-cli-tool/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/true/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=true" />
+<a href="https://github.com/k1tikurisu/unjs-cli-tool/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=k1tikurisu/unjs-cli-tool" />
 </a>
+
+<!-- /automd -->
+
+<!-- automd:with-automd -->
+
+---
+
+_🤖 auto updated with [automd](https://automd.unjs.io)_
 
 <!-- /automd -->
