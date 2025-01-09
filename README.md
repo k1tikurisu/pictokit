@@ -1,5 +1,7 @@
 # hello-unjs
 
+UnJSツールを使ってnpmにCLIツールとAPIを公開するサンプル
+
 <!-- automd:badges color="yellow" name="defu" bundlephobia packagephobia -->
 
 [![npm version](https://img.shields.io/npm/v/defu?color=yellow)](https://npmjs.com/package/defu)
