@@ -1,4 +1,16 @@
 
+## v0.0.2
+
+[compare changes](https://github.com/k1tikurisu/pictokit/compare/v0.0.1...v0.0.2)
+
+### 🐛 Bug Fixes
+
+- Package.json ([b36ca2b](https://github.com/k1tikurisu/pictokit/commit/b36ca2b))
+
+### ❤️ Contributors
+
+- Daiki <k1tikurisu@gmail.com>
+
 ## v0.0.1
 
 
