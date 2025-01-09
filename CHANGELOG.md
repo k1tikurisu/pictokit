@@ -1,4 +1,16 @@
 
+## v0.0.3
+
+[compare changes](https://github.com/k1tikurisu/pictokit/compare/v0.0.2...v0.0.3)
+
+### 🏡 Chore
+
+- Update readme ([2dccb9a](https://github.com/k1tikurisu/pictokit/commit/2dccb9a))
+
+### ❤️ Contributors
+
+- Daiki <k1tikurisu@gmail.com>
+
 ## v0.0.2
 
 [compare changes](https://github.com/k1tikurisu/pictokit/compare/v0.0.1...v0.0.2)
