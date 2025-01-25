@@ -1,5 +1,5 @@
 {
-  "repo": "k1tikurisu/pictokit",
+  "repo": "k1tikurisu/unjs-cli-tool",
   "output": "CHANGELOG.md",
   "types": {
     "feat": { "title": "🚀 Features", "semver": "minor" },
